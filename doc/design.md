@@ -9,7 +9,7 @@
 
 任意のメールフォルダにメールが残ったままBecky!を終了させようとした場合にリマインドする。（送信箱にメールが残っているときにBecky!の標準機能でポップアップが出るのと同じイメージ）
 
-![使用時のイメージ](./images/usage-image.png)
+<img width="835" height="886" alt="image" src="https://github.com/user-attachments/assets/be2c664a-2cbd-46ee-a80f-70313caa6829" />
 
 ---
 
@@ -21,11 +21,13 @@
 - **メッセージ**:
   - 作成中のメッセージが草稿箱に残っています。このまま終了してよろしいですか？
 
-![リマインドポップアップ](./images/reminder-popup.png)
+<img width="433" height="208" alt="image" src="https://github.com/user-attachments/assets/3819468d-fa0b-4569-92d7-7363186ca00f" />
+
 
 ### 設定画面
 
-![設定画面](./images/settings-screen.png)
+<img width="511" height="686" alt="image" src="https://github.com/user-attachments/assets/788572ee-0aec-4509-b4f4-03480656048a" />
+
 
 #### BkReminderを無効にする（チェックボックス）
 - チェックボックスによりBkReminderプラグインを無効にするか有効にするかを設定する
@@ -177,4 +179,5 @@ classDiagram
 ### Becky!のメールリマインド機能
 
 - 指定時刻以後に巡回されたタイミングでリマインド箱から特定箱（受信箱や送信箱）へコピーする機能
+
 - 巡回時にメールを送信する設定にする必要がある
